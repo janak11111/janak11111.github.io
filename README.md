@@ -4,7 +4,9 @@ Template Credits: [Sebastin Santy](https://github.com/SebastinSanty/minimal-rese
 
 # Content Structure Credit
 
-[Aseem Srivaatsav](https://as3eem.github.io/)
+[Aseem Srivastava](https://as3eem.github.io/)
+
+# Theme Demo
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
 
